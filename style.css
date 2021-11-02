@@ -3,9 +3,9 @@ body{
 }
 .container{
     width: auto;
-    height: 20%;
+    height: 200px;
 }
 .picstyle{
-    width: auto;
-    height: auto;
+    width: fit-content;
+    height: fit-content;
 }
