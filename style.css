@@ -1,7 +1,7 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(226, 226, 217);
 }
 .container{
-    background-color: blue;
-    text-decoration-color: antiquewhite;
+    width: auto;
+    height: 10%;
 }
