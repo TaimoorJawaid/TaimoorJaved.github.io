@@ -3,9 +3,28 @@ body{
 }
 .container{
     width: auto;
+    margin: 20px;
     height: 200px;
 }
 .picstyle{
-    width: fit-content;
-    height: fit-content;
+    width:1300px;
+    height: 400px;
+}
+.pic{
+    margin-left: 70px;
+    margin-top: 50px;
+    width: 225px;
+    border: 5px solid rgb(0, 0, 0)
+
+    
+}
+.heading1{
+    margin-top: -80px;
+    margin-left: 320px;
+    font-family: Arial, Helvetica, bold;
+}
+.border{
+    width: 225px;
+    border: 5px solid rgb(0, 0, 0)
+   
 }
