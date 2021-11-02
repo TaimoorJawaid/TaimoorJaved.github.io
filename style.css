@@ -3,5 +3,9 @@ body{
 }
 .container{
     width: auto;
-    height: 10%;
+    height: 20%;
+}
+.picstyle{
+    width: auto;
+    height: auto;
 }
